@@ -1,4 +1,4 @@
-Customer Satisfaction Prediction
+# Customer Satisfaction Prediction
 
 Data Science Internship Project
 
@@ -9,17 +9,12 @@ This project focuses on analyzing customer support ticket data and building a ma
 
 The project follows the complete Data Science lifecycle:
 
-Data Cleaning
-
-Exploratory Data Analysis (EDA)
-
-Feature Engineering
-
-Model Building
-
-Model Evaluation
-
-Model Saving & Prediction
+1. Data Cleaning
+2. Exploratory Data Analysis (EDA)
+3. Feature Engineering
+4. Model Building
+5. Model Evaluation
+6. Model Saving & Prediction
 
 🎯 Problem Statement
 
@@ -152,4 +147,5 @@ By reframing the problem into binary classification, the solution becomes more i
 👤 Author
 
 [Bibek Kumar Majhi]
+
 Machine Learning / Data Analytics Intern
