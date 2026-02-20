@@ -23,9 +23,9 @@ However, predicting exact ratings is difficult due to the subjective nature of c
 
 To make the solution business-friendly and practical, the problem was reframed as a binary classification task:
 
-Rating	Category
-1–2	Unhappy
-3–5	Not Unhappy
+#### Rating	Category
+**1–2	Unhappy**
+**3–5	Not Unhappy**
 
 ## 🗂️ Dataset Description
 
@@ -121,7 +121,7 @@ Integrate into applications or dashboards
 
 
 
-🧠 Key Learnings
+### 🧠 Key Learnings
 
 Importance of correct problem framing in machine learning
 
@@ -133,15 +133,16 @@ Translating ML results into business-friendly insights
 
 
 
-📌 Conclusion
+### 📌 Conclusion
 
 This project demonstrates a practical application of machine learning to solve a real-world business problem.
 By reframing the problem into binary classification, the solution becomes more interpretable, actionable, and aligned with industry practices.
 
-👤 Author
+### 👤 Author
 
-[Bibek Kumar Majhi]
+**[Bibek Kumar Majhi]**
 
 Machine Learning / Data Analytics Intern
+
 
 
